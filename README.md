@@ -10,7 +10,6 @@ Demonstrates OTC-style compliance monitoring: Python loads raw filings → SQL f
 | 4 | Excessive deductions | `Deductions_Claimed > 0.5*Paid_Amount` |
 
 ## Dashboard Highlights
-- **✦ Error Rate (%)** – % of filings failing ≥1 rule (dynamic).
 - **✦ Drill-through table** – Auditors can filter by Region / Year / Audit Flag.
 - **✦ KPI cards** – Lowest & Highest returns identify outliers.
 
