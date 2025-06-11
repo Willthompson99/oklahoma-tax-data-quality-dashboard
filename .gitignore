@@ -1,0 +1,4 @@
+*.db
+*.pbix
+__pycache__/
+*.pyc
